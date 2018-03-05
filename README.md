@@ -1,0 +1,2 @@
+# EmpireMinion
+A Discord Bot
